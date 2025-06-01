@@ -5,7 +5,7 @@
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "deploy": "GIT_USER=the-human-channel docusaurus deploy",
+    "deploy": "docusaurus deploy",
     "predeploy": "docusaurus build",
     "serve": "serve -s build"
   },
