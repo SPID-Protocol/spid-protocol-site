@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://the-human-channel.github.io/the-human-channel-site/blog</id>
-    <title>The Human Channel Blog</title>
+    <id>https://spid-protocol.github.io/spid-protocol-site/blog</id>
+    <title>SPID Protocol Blog</title>
     <updated>2025-06-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://the-human-channel.github.io/the-human-channel-site/blog"/>
-    <subtitle>The Human Channel Blog</subtitle>
-    <icon>https://the-human-channel.github.io/the-human-channel-site/img/favicon.ico</icon>
+    <link rel="alternate" href="https://spid-protocol.github.io/spid-protocol-site/blog"/>
+    <subtitle>SPID Protocol Blog</subtitle>
+    <icon>https://spid-protocol.github.io/spid-protocol-site/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[The Consent Layer for AI: Why Permission Will Save AI]]></title>
-        <id>https://the-human-channel.github.io/the-human-channel-site/blog/consent-layer-for-ai</id>
-        <link href="https://the-human-channel.github.io/the-human-channel-site/blog/consent-layer-for-ai"/>
+        <id>https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai</id>
+        <link href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai"/>
         <updated>2025-06-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Problem Nobody Wants to Talk About]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-problem-nobody-wants-to-talk-about">The Problem Nobody Wants to Talk About<a href="https://the-human-channel.github.io/the-human-channel-site/blog/consent-layer-for-ai#the-problem-nobody-wants-to-talk-about" class="hash-link" aria-label="Direct link to The Problem Nobody Wants to Talk About" title="Direct link to The Problem Nobody Wants to Talk About">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-problem-nobody-wants-to-talk-about">The Problem Nobody Wants to Talk About<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-problem-nobody-wants-to-talk-about" class="hash-link" aria-label="Direct link to The Problem Nobody Wants to Talk About" title="Direct link to The Problem Nobody Wants to Talk About">​</a></h2>
 <p>For years now, we’ve all watched AI grow at an extraordinary pace. ChatGPT writes essays. Gemini summarizes research. Claude drafts contracts. And the more we use these tools, the more we wonder:</p>
 <p>Where did all this knowledge come from?</p>
 <p>The honest answer: it came from us.</p>
 <p>From billions of pages of books, articles, blogs, private conversations, photos, videos, songs, voices — much of it pulled into massive AI models without the knowledge or consent of the people who created it.</p>
 <p>It worked. But it came with consequences.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-wild-west-phase-of-ai">The Wild West Phase of AI<a href="https://the-human-channel.github.io/the-human-channel-site/blog/consent-layer-for-ai#the-wild-west-phase-of-ai" class="hash-link" aria-label="Direct link to The Wild West Phase of AI" title="Direct link to The Wild West Phase of AI">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-wild-west-phase-of-ai">The Wild West Phase of AI<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-wild-west-phase-of-ai" class="hash-link" aria-label="Direct link to The Wild West Phase of AI" title="Direct link to The Wild West Phase of AI">​</a></h2>
 <p>The first generation of AI companies operated like digital prospectors, racing to scrape as much data as possible as quickly as possible. Copyright, consent, permission — these became afterthoughts. The assumption was simple: whoever trained the biggest model first would win.</p>
 <p>But now, lawsuits are mounting. Creators are pushing back. Regulators are stepping in. And the public is starting to question the very trustworthiness of these systems.</p>
 <p>AI is approaching its Napster moment — just as the music industry once did. Unlimited access felt great — until artists, rights holders, and regulators stepped in and forced the industry to evolve.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-real-issue-is-control">The Real Issue Is Control<a href="https://the-human-channel.github.io/the-human-channel-site/blog/consent-layer-for-ai#the-real-issue-is-control" class="hash-link" aria-label="Direct link to The Real Issue Is Control" title="Direct link to The Real Issue Is Control">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-real-issue-is-control">The Real Issue Is Control<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-real-issue-is-control" class="hash-link" aria-label="Direct link to The Real Issue Is Control" title="Direct link to The Real Issue Is Control">​</a></h2>
 <p>The problem isn’t that AI exists. The problem is how it has been built and deployed.</p>
 <ul>
 <li>People want AI that helps them, not replaces them.</li>
@@ -31,7 +31,7 @@
 <li>They want AI that respects their work, their identity, and their privacy.</li>
 </ul>
 <p>In short: <strong>AI must learn to ask first.</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-consent-layer-for-ai">The Consent Layer for AI<a href="https://the-human-channel.github.io/the-human-channel-site/blog/consent-layer-for-ai#the-consent-layer-for-ai" class="hash-link" aria-label="Direct link to The Consent Layer for AI" title="Direct link to The Consent Layer for AI">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-consent-layer-for-ai">The Consent Layer for AI<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-consent-layer-for-ai" class="hash-link" aria-label="Direct link to The Consent Layer for AI" title="Direct link to The Consent Layer for AI">​</a></h2>
 <p>This is where the next evolution of AI begins: a <strong>Consent Layer.</strong></p>
 <p>An infrastructure where individuals, creators, businesses, and governments can safely participate in the AI economy — on their terms.</p>
 <ul>
@@ -42,7 +42,7 @@
 <li>You remain fully in control of your identity.</li>
 </ul>
 <p>No scraping. No legal ambiguity. No silent exploitation.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introducing-pulseid">Introducing PulseID<a href="https://the-human-channel.github.io/the-human-channel-site/blog/consent-layer-for-ai#introducing-pulseid" class="hash-link" aria-label="Direct link to Introducing PulseID" title="Direct link to Introducing PulseID">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introducing-pulseid">Introducing PulseID<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#introducing-pulseid" class="hash-link" aria-label="Direct link to Introducing PulseID" title="Direct link to Introducing PulseID">​</a></h2>
 <p>One part of this emerging architecture is <strong>PulseID</strong>.</p>
 <p>PulseID serves as an individual’s AI permission key. It is a personal digital identity layer that records what content, data, and likeness you control — and who is allowed to access it.</p>
 <p>When an AI system requests access to data connected to you:</p>
@@ -52,7 +52,7 @@
 </ul>
 <p>It’s simple. It’s transparent. It’s fully auditable. And most importantly, it places the human back in control.</p>
 <p><em>PulseID and related Smart Packet infrastructure patent pending.</em></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-this-is-not-the-end-of-ai--but-the-beginning-of-sustainable-ai">Why This Is Not The End of AI — But The Beginning of Sustainable AI<a href="https://the-human-channel.github.io/the-human-channel-site/blog/consent-layer-for-ai#why-this-is-not-the-end-of-ai--but-the-beginning-of-sustainable-ai" class="hash-link" aria-label="Direct link to Why This Is Not The End of AI — But The Beginning of Sustainable AI" title="Direct link to Why This Is Not The End of AI — But The Beginning of Sustainable AI">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-this-is-not-the-end-of-ai--but-the-beginning-of-sustainable-ai">Why This Is Not The End of AI — But The Beginning of Sustainable AI<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#why-this-is-not-the-end-of-ai--but-the-beginning-of-sustainable-ai" class="hash-link" aria-label="Direct link to Why This Is Not The End of AI — But The Beginning of Sustainable AI" title="Direct link to Why This Is Not The End of AI — But The Beginning of Sustainable AI">​</a></h2>
 <p>There’s a misconception that permission-based AI will slow innovation or weaken the capabilities we’ve grown to rely on.</p>
 <p>In reality, the opposite is true.</p>
 <p>The reasoning engines behind modern AI are improving rapidly. The core intelligence remains intact. What’s broken is not the reasoning — it’s the way the data was collected.</p>
@@ -69,7 +69,7 @@
 <li>Fairer.</li>
 <li>Fully aligned with creators, regulators, and users.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-window-is-closing">The Window Is Closing<a href="https://the-human-channel.github.io/the-human-channel-site/blog/consent-layer-for-ai#the-window-is-closing" class="hash-link" aria-label="Direct link to The Window Is Closing" title="Direct link to The Window Is Closing">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-window-is-closing">The Window Is Closing<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-window-is-closing" class="hash-link" aria-label="Direct link to The Window Is Closing" title="Direct link to The Window Is Closing">​</a></h2>
 <p>The world has seen this play out before.</p>
 <ul>
 <li>Napster collapsed. Spotify emerged.</li>
@@ -94,8 +94,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[The Human-AI Partnership: Our Next Great Collaboration]]></title>
-        <id>https://the-human-channel.github.io/the-human-channel-site/blog/human-ai-partnership</id>
-        <link href="https://the-human-channel.github.io/the-human-channel-site/blog/human-ai-partnership"/>
+        <id>https://spid-protocol.github.io/spid-protocol-site/blog/human-ai-partnership</id>
+        <link href="https://spid-protocol.github.io/spid-protocol-site/blog/human-ai-partnership"/>
         <updated>2025-05-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The future is not "humans vs. AI."]]></summary>
         <content type="html"><![CDATA[<p>The future is not "humans vs. AI."<br>
@@ -106,14 +106,14 @@
 <li>Humans will handle trust, judgment, permission, nuance.</li>
 </ul>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="were-entering-the-age-of">We’re entering the age of:<a href="https://the-human-channel.github.io/the-human-channel-site/blog/human-ai-partnership#were-entering-the-age-of" class="hash-link" aria-label="Direct link to We’re entering the age of:" title="Direct link to We’re entering the age of:">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="were-entering-the-age-of">We’re entering the age of:<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-ai-partnership#were-entering-the-age-of" class="hash-link" aria-label="Direct link to We’re entering the age of:" title="Direct link to We’re entering the age of:">​</a></h2>
 <ul>
 <li><strong>AI Amplification</strong> — every person equipped with personal cognitive assistants.</li>
 <li><strong>Human Filters</strong> — where relationships, values, and trust become essential.</li>
 <li><strong>Permission-Based Commerce</strong> — where interruption dies, and <em>invitation</em> wins.</li>
 </ul>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-work-ahead">The Work Ahead<a href="https://the-human-channel.github.io/the-human-channel-site/blog/human-ai-partnership#the-work-ahead" class="hash-link" aria-label="Direct link to The Work Ahead" title="Direct link to The Work Ahead">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-work-ahead">The Work Ahead<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-ai-partnership#the-work-ahead" class="hash-link" aria-label="Direct link to The Work Ahead" title="Direct link to The Work Ahead">​</a></h2>
 <p>We will use The Human Channel to explore questions like:</p>
 <ul>
 <li>How do we train AI to reflect human dignity?</li>
@@ -140,17 +140,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[The Human Channel vs The Noise Economy]]></title>
-        <id>https://the-human-channel.github.io/the-human-channel-site/blog/human-channel-vs-noise</id>
-        <link href="https://the-human-channel.github.io/the-human-channel-site/blog/human-channel-vs-noise"/>
+        <id>https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise</id>
+        <link href="https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise"/>
         <updated>2025-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Noise Economy is Collapsing]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-noise-economy-is-collapsing">The Noise Economy is Collapsing<a href="https://the-human-channel.github.io/the-human-channel-site/blog/human-channel-vs-noise#the-noise-economy-is-collapsing" class="hash-link" aria-label="Direct link to The Noise Economy is Collapsing" title="Direct link to The Noise Economy is Collapsing">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-noise-economy-is-collapsing">The Noise Economy is Collapsing<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise#the-noise-economy-is-collapsing" class="hash-link" aria-label="Direct link to The Noise Economy is Collapsing" title="Direct link to The Noise Economy is Collapsing">​</a></h2>
 <p>For decades, businesses operated by shouting louder.<br>
 <!-- -->More ads. More emails. More popups. More DMs.<br>
 <!-- -->Consumers are overwhelmed, fatigued, and tuning out.</p>
 <p>We call this <strong>The Noise Economy</strong> — where value is measured by interruption.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="permission-is-the-new-currency">Permission is the New Currency<a href="https://the-human-channel.github.io/the-human-channel-site/blog/human-channel-vs-noise#permission-is-the-new-currency" class="hash-link" aria-label="Direct link to Permission is the New Currency" title="Direct link to Permission is the New Currency">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="permission-is-the-new-currency">Permission is the New Currency<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise#permission-is-the-new-currency" class="hash-link" aria-label="Direct link to Permission is the New Currency" title="Direct link to Permission is the New Currency">​</a></h2>
 <p>In a world flooded by automated outreach, AI content farms, and infinite recommendations, what people crave most is:</p>
 <p>✅ <strong>Signal over noise</strong><br>
 <!-- -->✅ <strong>Relevance over randomness</strong><br>
@@ -158,7 +158,7 @@
 <p><strong>Permission becomes everything.</strong></p>
 <p>When someone grants you permission to speak into their life, you’re no longer just fighting for attention. You’re in the privileged space of trust.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-human-channel-difference">The Human Channel Difference<a href="https://the-human-channel.github.io/the-human-channel-site/blog/human-channel-vs-noise#the-human-channel-difference" class="hash-link" aria-label="Direct link to The Human Channel Difference" title="Direct link to The Human Channel Difference">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-human-channel-difference">The Human Channel Difference<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise#the-human-channel-difference" class="hash-link" aria-label="Direct link to The Human Channel Difference" title="Direct link to The Human Channel Difference">​</a></h2>
 <p>The Human Channel isn’t another tool that tries to yell louder.</p>
 <p>It’s built for <strong>high-trust, high-permission conversations</strong>, where:</p>
 <ul>
@@ -168,7 +168,7 @@
 <li>Businesses serve as trusted advisors, not relentless spammers.</li>
 </ul>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="this-is-not-a-tweak-its-a-reset">This is Not a Tweak. It's a Reset.<a href="https://the-human-channel.github.io/the-human-channel-site/blog/human-channel-vs-noise#this-is-not-a-tweak-its-a-reset" class="hash-link" aria-label="Direct link to This is Not a Tweak. It's a Reset." title="Direct link to This is Not a Tweak. It's a Reset.">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="this-is-not-a-tweak-its-a-reset">This is Not a Tweak. It's a Reset.<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise#this-is-not-a-tweak-its-a-reset" class="hash-link" aria-label="Direct link to This is Not a Tweak. It's a Reset." title="Direct link to This is Not a Tweak. It's a Reset.">​</a></h2>
 <p>We’re not optimizing the Noise Economy.<br>
 <!-- -->We’re building <strong>the opposite of it</strong>.</p>
 <p>The Human Channel is where AI and human interaction intersect — with dignity, permission, and purpose.</p>
@@ -187,8 +187,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Scarcity Is Dead: The Rise of Human Interaction in the AI Economy]]></title>
-        <id>https://the-human-channel.github.io/the-human-channel-site/blog/scarcity-is-dead</id>
-        <link href="https://the-human-channel.github.io/the-human-channel-site/blog/scarcity-is-dead"/>
+        <id>https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead</id>
+        <link href="https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead"/>
         <updated>2025-05-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[What if knowledge itself is no longer scarce?]]></summary>
         <content type="html"><![CDATA[<p>What if knowledge itself is no longer scarce?</p>
@@ -203,7 +203,7 @@
 </blockquote>
 <p>This single observation cuts to the heart of where we're heading.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-true-scarcity-becomes-human-interaction">The True Scarcity Becomes Human Interaction<a href="https://the-human-channel.github.io/the-human-channel-site/blog/scarcity-is-dead#the-true-scarcity-becomes-human-interaction" class="hash-link" aria-label="Direct link to The True Scarcity Becomes Human Interaction" title="Direct link to The True Scarcity Becomes Human Interaction">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-true-scarcity-becomes-human-interaction">The True Scarcity Becomes Human Interaction<a href="https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead#the-true-scarcity-becomes-human-interaction" class="hash-link" aria-label="Direct link to The True Scarcity Becomes Human Interaction" title="Direct link to The True Scarcity Becomes Human Interaction">​</a></h2>
 <p>As knowledge abundance accelerates, <strong>human connection becomes the scarce asset.</strong></p>
 <ul>
 <li>People crave trusted interaction.</li>
@@ -216,7 +216,7 @@
 <p><strong>The Human Channel Economy.</strong></p>
 </blockquote>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-the-human-channel">What Is The Human Channel?<a href="https://the-human-channel.github.io/the-human-channel-site/blog/scarcity-is-dead#what-is-the-human-channel" class="hash-link" aria-label="Direct link to What Is The Human Channel?" title="Direct link to What Is The Human Channel?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-the-human-channel">What Is The Human Channel?<a href="https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead#what-is-the-human-channel" class="hash-link" aria-label="Direct link to What Is The Human Channel?" title="Direct link to What Is The Human Channel?">​</a></h2>
 <p>The Human Channel is being built for exactly this shift:</p>
 <p>✅ <strong>Restoring Trust:</strong><br>
 <!-- -->Authentic permission-based communication, not forced attention.</p>
@@ -229,7 +229,7 @@
 <p>✅ <strong>Smart Packets + Identity Layers:</strong><br>
 <!-- -->New digital formats like Smart Packets (SPID Protocol) ensure every interaction is intentional, async, and AI-assisted, while still being human-first.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-future-is-not-less-ai--its-more-ai-with-boundaries">The Future Is Not Less AI — It's More AI... With Boundaries<a href="https://the-human-channel.github.io/the-human-channel-site/blog/scarcity-is-dead#the-future-is-not-less-ai--its-more-ai-with-boundaries" class="hash-link" aria-label="Direct link to The Future Is Not Less AI — It's More AI... With Boundaries" title="Direct link to The Future Is Not Less AI — It's More AI... With Boundaries">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-future-is-not-less-ai--its-more-ai-with-boundaries">The Future Is Not Less AI — It's More AI... With Boundaries<a href="https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead#the-future-is-not-less-ai--its-more-ai-with-boundaries" class="hash-link" aria-label="Direct link to The Future Is Not Less AI — It's More AI... With Boundaries" title="Direct link to The Future Is Not Less AI — It's More AI... With Boundaries">​</a></h2>
 <p>The problem isn't AI itself.</p>
 <p>The problem is <strong>AI without permission.</strong></p>
 <p>Unchecked, AI-driven outreach will overwhelm consumers with bots, cold DMs, unsolicited voice clones, and non-stop requests for attention.</p>
@@ -241,7 +241,7 @@
 <li>Trust-first engagement</li>
 </ul>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="we-are-building-the-infrastructure-for-this-shift">We Are Building the Infrastructure for This Shift<a href="https://the-human-channel.github.io/the-human-channel-site/blog/scarcity-is-dead#we-are-building-the-infrastructure-for-this-shift" class="hash-link" aria-label="Direct link to We Are Building the Infrastructure for This Shift" title="Direct link to We Are Building the Infrastructure for This Shift">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="we-are-building-the-infrastructure-for-this-shift">We Are Building the Infrastructure for This Shift<a href="https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead#we-are-building-the-infrastructure-for-this-shift" class="hash-link" aria-label="Direct link to We Are Building the Infrastructure for This Shift" title="Direct link to We Are Building the Infrastructure for This Shift">​</a></h2>
 <p>The Human Channel isn't just an idea. It's an infrastructure layer that includes:</p>
 <ul>
 <li>✅ The Smart Packet Identity Layer (SPID)</li>
