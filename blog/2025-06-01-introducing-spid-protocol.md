@@ -1,7 +1,7 @@
 ---
 slug: introducing-spid-protocol
 title: Introducing SPID Protocol — A Consent Framework for AI’s Next Era
-authors: rick-jewett
+authors: rickjewett
 tags: [AI, consent, governance, responsible AI, regulation]
 date: 2025-06-01
 ---

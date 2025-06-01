@@ -1,7 +1,7 @@
 ---
 slug: consent-layer-for-ai
 title: The Consent Layer AI Desperately Needs
-authors: rick-jewett
+authors: rickjewett
 tags: [AI, permission, consent layer, trust, pulseid, future]
 date: 2025-06-05
 ---
