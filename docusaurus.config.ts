@@ -8,10 +8,10 @@ const config: Config = {
   title: 'SPID Protocol',
   tagline: 'A Practical Consent Framework for Responsible AI Governance',
   url: 'https://spid-protocol.github.io',
-  baseUrl: '/spidprotocol-docs/',
+  baseUrl: '/spid-protocol-site/',
   favicon: 'img/favicon.ico',
   organizationName: 'spid-protocol',
-  projectName: 'spidprotocol-docs',
+  projectName: 'spid-protocol-site',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
