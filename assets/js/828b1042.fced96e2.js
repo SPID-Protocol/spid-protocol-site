@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspid_protocol_site=self.webpackChunkspid_protocol_site||[]).push([[610],{2926:o=>{o.exports=JSON.parse('{"authors":[{"name":"Rick Jewett","title":"Founder, The SPID Protocol","imageURL":"https://SPID-Protocol.github.io/spid-protocol-site/img/logo.svg","key":"rickjewett","page":null,"count":2}]}')}}]);

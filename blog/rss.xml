@@ -9,80 +9,66 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[The Consent Layer for AI: Why Permission Will Save AI]]></title>
+            <title><![CDATA[The Consent Layer AI Desperately Needs]]></title>
             <link>https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai</link>
             <guid>https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai</guid>
             <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Problem Nobody Wants to Talk About]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-problem-nobody-wants-to-talk-about">The Problem Nobody Wants to Talk About<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-problem-nobody-wants-to-talk-about" class="hash-link" aria-label="Direct link to The Problem Nobody Wants to Talk About" title="Direct link to The Problem Nobody Wants to Talk About">​</a></h2>
-<p>For years now, we’ve all watched AI grow at an extraordinary pace. ChatGPT writes essays. Gemini summarizes research. Claude drafts contracts. And the more we use these tools, the more we wonder:</p>
-<p>Where did all this knowledge come from?</p>
-<p>The honest answer: it came from us.</p>
-<p>From billions of pages of books, articles, blogs, private conversations, photos, videos, songs, voices — much of it pulled into massive AI models without the knowledge or consent of the people who created it.</p>
-<p>It worked. But it came with consequences.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-wild-west-phase-of-ai">The Wild West Phase of AI<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-wild-west-phase-of-ai" class="hash-link" aria-label="Direct link to The Wild West Phase of AI" title="Direct link to The Wild West Phase of AI">​</a></h2>
-<p>The first generation of AI companies operated like digital prospectors, racing to scrape as much data as possible as quickly as possible. Copyright, consent, permission — these became afterthoughts. The assumption was simple: whoever trained the biggest model first would win.</p>
-<p>But now, lawsuits are mounting. Creators are pushing back. Regulators are stepping in. And the public is starting to question the very trustworthiness of these systems.</p>
-<p>AI is approaching its Napster moment — just as the music industry once did. Unlimited access felt great — until artists, rights holders, and regulators stepped in and forced the industry to evolve.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-real-issue-is-control">The Real Issue Is Control<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-real-issue-is-control" class="hash-link" aria-label="Direct link to The Real Issue Is Control" title="Direct link to The Real Issue Is Control">​</a></h2>
-<p>The problem isn’t that AI exists. The problem is how it has been built and deployed.</p>
+            <description><![CDATA[As AI models advance, reasoning and generation get most of the attention. But beneath these systems lies a critical missing layer that few are addressing: delivery consent.]]></description>
+            <content:encoded><![CDATA[<p>As AI models advance, reasoning and generation get most of the attention. But beneath these systems lies a critical missing layer that few are addressing: <strong>delivery consent.</strong></p>
+<p>Large language models, voice agents, and autonomous systems are already generating:</p>
 <ul>
-<li>People want AI that helps them, not replaces them.</li>
-<li>They want AI that works with their permission, not behind their backs.</li>
-<li>They want AI that respects their work, their identity, and their privacy.</li>
+<li>Phone calls</li>
+<li>Text messages</li>
+<li>Emails</li>
+<li>Push notifications</li>
+<li>Social DMs</li>
 </ul>
-<p>In short: <strong>AI must learn to ask first.</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-consent-layer-for-ai">The Consent Layer for AI<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-consent-layer-for-ai" class="hash-link" aria-label="Direct link to The Consent Layer for AI" title="Direct link to The Consent Layer for AI">​</a></h2>
-<p>This is where the next evolution of AI begins: a <strong>Consent Layer.</strong></p>
-<p>An infrastructure where individuals, creators, businesses, and governments can safely participate in the AI economy — on their terms.</p>
-<ul>
-<li>You control what data you share.</li>
-<li>You decide who can access your content.</li>
-<li>You authorize how your likeness, voice, or work can be used.</li>
-<li>You receive compensation where appropriate.</li>
-<li>You remain fully in control of your identity.</li>
-</ul>
-<p>No scraping. No legal ambiguity. No silent exploitation.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introducing-pulseid">Introducing PulseID<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#introducing-pulseid" class="hash-link" aria-label="Direct link to Introducing PulseID" title="Direct link to Introducing PulseID">​</a></h2>
-<p>One part of this emerging architecture is <strong>PulseID</strong>.</p>
-<p>PulseID serves as an individual’s AI permission key. It is a personal digital identity layer that records what content, data, and likeness you control — and who is allowed to access it.</p>
-<p>When an AI system requests access to data connected to you:</p>
-<ul>
-<li>If you’ve authorized it, permission is granted.</li>
-<li>If you haven’t, the request is denied.</li>
-</ul>
-<p>It’s simple. It’s transparent. It’s fully auditable. And most importantly, it places the human back in control.</p>
-<p><em>PulseID and related Smart Packet infrastructure patent pending.</em></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-this-is-not-the-end-of-ai--but-the-beginning-of-sustainable-ai">Why This Is Not The End of AI — But The Beginning of Sustainable AI<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#why-this-is-not-the-end-of-ai--but-the-beginning-of-sustainable-ai" class="hash-link" aria-label="Direct link to Why This Is Not The End of AI — But The Beginning of Sustainable AI" title="Direct link to Why This Is Not The End of AI — But The Beginning of Sustainable AI">​</a></h2>
-<p>There’s a misconception that permission-based AI will slow innovation or weaken the capabilities we’ve grown to rely on.</p>
-<p>In reality, the opposite is true.</p>
-<p>The reasoning engines behind modern AI are improving rapidly. The core intelligence remains intact. What’s broken is not the reasoning — it’s the way the data was collected.</p>
-<p>Without trust, AI faces existential risk:</p>
-<ul>
-<li>Regulatory shutdowns.</li>
-<li>Public backlash.</li>
-<li>Legal collapse.</li>
-</ul>
-<p>But with permissioned systems like <strong>PulseID</strong> and <strong>Smart Packets</strong> (patent pending), AI remains powerful, but becomes sustainable:</p>
-<ul>
-<li>Safer.</li>
-<li>Smarter.</li>
-<li>Fairer.</li>
-<li>Fully aligned with creators, regulators, and users.</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-window-is-closing">The Window Is Closing<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-window-is-closing" class="hash-link" aria-label="Direct link to The Window Is Closing" title="Direct link to The Window Is Closing">​</a></h2>
-<p>The world has seen this play out before.</p>
-<ul>
-<li>Napster collapsed. Spotify emerged.</li>
-<li>Pirate streaming collapsed. Netflix emerged.</li>
-<li>Wild web scraping collapsed. Licensed content APIs emerged.</li>
-</ul>
-<p>Now, it is AI’s turn to evolve.</p>
-<p>The real breakthrough isn’t who can scrape the most data. The real breakthrough is who can build the system that everyone can trust.</p>
-<p>The Consent Layer for AI is not an option. It is a necessity.</p>
-<p><strong>The only question is: who will lead it?</strong></p>
+<p>But these communications are often sent without any true <strong>permission verification</strong> or <strong>consent auditability</strong> before the message reaches a human being.</p>
+<p>This creates enormous legal, ethical, and regulatory risk — not just for companies, but for AI itself as a maturing industry.</p>
 <hr>
-<p><em>The Human Channel — Always Human. Always Permissioned. Always Trusted. (Patent pending.)</em></p>]]></content:encoded>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-structural-gap">The Structural Gap<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#the-structural-gap" class="hash-link" aria-label="Direct link to The Structural Gap" title="Direct link to The Structural Gap">​</a></h2>
+<p>The current state of AI agent delivery is:</p>
+<ul>
+<li><strong>Permissionless by default</strong></li>
+<li><strong>Lacking global consent protocols</strong></li>
+<li><strong>Exposed to privacy regulation failures (GDPR, CCPA, HIPAA, TCPA, etc.)</strong></li>
+</ul>
+<p>While governance efforts have focused on model bias, hallucination, and data ethics — <strong>the delivery layer remains structurally unregulated.</strong></p>
+<p>Without a consent layer, AI delivery will become the next legal flashpoint.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="spid-protocol-a-delivery-consent-rail">SPID Protocol: A Delivery Consent Rail<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#spid-protocol-a-delivery-consent-rail" class="hash-link" aria-label="Direct link to SPID Protocol: A Delivery Consent Rail" title="Direct link to SPID Protocol: A Delivery Consent Rail">​</a></h2>
+<p>SPID Protocol (Smart Packet ID Protocol) is being developed to fill this missing layer:</p>
+<ul>
+<li>✅ AI-readable identity encoding</li>
+<li>✅ Consent verification before delivery</li>
+<li>✅ Immutable audit trail for regulators</li>
+<li>✅ Interoperable across AI agents, platforms, and delivery channels</li>
+<li>✅ Compliant with existing and future governance standards</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="consent--the-currency-of-trust">Consent = The Currency of Trust<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#consent--the-currency-of-trust" class="hash-link" aria-label="Direct link to Consent = The Currency of Trust" title="Direct link to Consent = The Currency of Trust">​</a></h2>
+<p>In the coming AI economy, <strong>human interaction will not be sold by knowledge delivered — but by permission to deliver it.</strong></p>
+<p>SPID Protocol makes consent:</p>
+<ul>
+<li>Actionable</li>
+<li>Accountable</li>
+<li>Legally defensible</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="white-paper-available">White Paper Available<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#white-paper-available" class="hash-link" aria-label="Direct link to White Paper Available" title="Direct link to White Paper Available">​</a></h2>
+<p>👉 <a href="https://spid-protocol.github.io/spid-protocol-site/assets/files/SPID-Protocol-White-Paper-v1.2-074ba8cc475f9ae5e70b134d925c2314.pdf" target="_blank">Download the full SPID Protocol White Paper v1.2</a></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="an-open-invitation">An Open Invitation<a href="https://spid-protocol.github.io/spid-protocol-site/blog/consent-layer-for-ai#an-open-invitation" class="hash-link" aria-label="Direct link to An Open Invitation" title="Direct link to An Open Invitation">​</a></h2>
+<p>We invite:</p>
+<ul>
+<li>Regulators</li>
+<li>Standards bodies</li>
+<li>Policy makers</li>
+<li>Compliance teams</li>
+<li>Responsible AI builders</li>
+</ul>
+<p>To collaborate on building SPID Protocol as a global public infrastructure layer for AI consent governance.</p>
+<p>Contact: <strong><a href="mailto:rick@spidprotocol.org" target="_blank" rel="noopener noreferrer">rick@spidprotocol.org</a></strong></p>]]></content:encoded>
             <category>AI</category>
             <category>permission</category>
             <category>consent layer</category>
@@ -91,168 +77,21 @@
             <category>future</category>
         </item>
         <item>
-            <title><![CDATA[The Human-AI Partnership: Our Next Great Collaboration]]></title>
-            <link>https://spid-protocol.github.io/spid-protocol-site/blog/human-ai-partnership</link>
-            <guid>https://spid-protocol.github.io/spid-protocol-site/blog/human-ai-partnership</guid>
-            <pubDate>Sat, 31 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The future is not "humans vs. AI."]]></description>
-            <content:encoded><![CDATA[<p>The future is not "humans vs. AI."<br>
-<!-- -->The future is <strong>humans with AI.</strong></p>
-<p>The Human Channel exists because we see what's coming:</p>
-<ul>
-<li>AI will handle knowledge retrieval, analysis, synthesis.</li>
-<li>Humans will handle trust, judgment, permission, nuance.</li>
-</ul>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="were-entering-the-age-of">We’re entering the age of:<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-ai-partnership#were-entering-the-age-of" class="hash-link" aria-label="Direct link to We’re entering the age of:" title="Direct link to We’re entering the age of:">​</a></h2>
-<ul>
-<li><strong>AI Amplification</strong> — every person equipped with personal cognitive assistants.</li>
-<li><strong>Human Filters</strong> — where relationships, values, and trust become essential.</li>
-<li><strong>Permission-Based Commerce</strong> — where interruption dies, and <em>invitation</em> wins.</li>
-</ul>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-work-ahead">The Work Ahead<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-ai-partnership#the-work-ahead" class="hash-link" aria-label="Direct link to The Work Ahead" title="Direct link to The Work Ahead">​</a></h2>
-<p>We will use The Human Channel to explore questions like:</p>
-<ul>
-<li>How do we train AI to reflect human dignity?</li>
-<li>How do businesses earn trust in an AI-filtered world?</li>
-<li>How do we preserve meaningful human interaction when answers are free?</li>
-</ul>
-<hr>
-<blockquote>
-<p>This platform isn't about hype cycles or technical specs.<br>
-<!-- -->It's about the practical, human-centered work of coexisting with AI.</p>
-</blockquote>
-<p><strong>The Human Channel is not fighting the future.</strong><br>
-<!-- -->We are preparing for it.</p>
-<hr>
-<p>Welcome to the partnership.</p>]]></content:encoded>
+            <title><![CDATA[Introducing SPID Protocol — A Consent Framework for AI’s Next Era]]></title>
+            <link>https://spid-protocol.github.io/spid-protocol-site/blog/introducing-spid-protocol</link>
+            <guid>https://spid-protocol.github.io/spid-protocol-site/blog/introducing-spid-protocol</guid>
+            <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[As AI evolves, we hear a lot about the power of large language models, reasoning engines, and generative capabilities.]]></description>
+            <content:encoded><![CDATA[<p>As AI evolves, we hear a lot about the power of large language models, reasoning engines, and generative capabilities.<br>
+<!-- -->But there’s a hidden layer few are addressing: how AI-generated interactions actually reach human beings.</p>
+<p>SPID Protocol provides a universal consent framework to govern AI delivery — enabling lawful, trusted, regulator-compliant agent-to-human communications.</p>
+<p>👉 Full whitepaper: <a href="https://spid-protocol.github.io/spid-protocol-site/assets/files/SPID-Protocol-White-Paper-v1.2-074ba8cc475f9ae5e70b134d925c2314.pdf" target="_blank">SPID Protocol White Paper v1.2</a></p>
+<p>We invite regulators, standards bodies, compliance teams, and responsible AI builders to join the open development of SPID Protocol as a global infrastructure layer for trusted AI communication.</p>]]></content:encoded>
             <category>AI</category>
-            <category>humanity</category>
-            <category>collaboration</category>
-            <category>future</category>
-            <category>trust</category>
-        </item>
-        <item>
-            <title><![CDATA[The Human Channel vs The Noise Economy]]></title>
-            <link>https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise</link>
-            <guid>https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Noise Economy is Collapsing]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-noise-economy-is-collapsing">The Noise Economy is Collapsing<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise#the-noise-economy-is-collapsing" class="hash-link" aria-label="Direct link to The Noise Economy is Collapsing" title="Direct link to The Noise Economy is Collapsing">​</a></h2>
-<p>For decades, businesses operated by shouting louder.<br>
-<!-- -->More ads. More emails. More popups. More DMs.<br>
-<!-- -->Consumers are overwhelmed, fatigued, and tuning out.</p>
-<p>We call this <strong>The Noise Economy</strong> — where value is measured by interruption.</p>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="permission-is-the-new-currency">Permission is the New Currency<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise#permission-is-the-new-currency" class="hash-link" aria-label="Direct link to Permission is the New Currency" title="Direct link to Permission is the New Currency">​</a></h2>
-<p>In a world flooded by automated outreach, AI content farms, and infinite recommendations, what people crave most is:</p>
-<p>✅ <strong>Signal over noise</strong><br>
-<!-- -->✅ <strong>Relevance over randomness</strong><br>
-<!-- -->✅ <strong>Trust over transactions</strong></p>
-<p><strong>Permission becomes everything.</strong></p>
-<p>When someone grants you permission to speak into their life, you’re no longer just fighting for attention. You’re in the privileged space of trust.</p>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-human-channel-difference">The Human Channel Difference<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise#the-human-channel-difference" class="hash-link" aria-label="Direct link to The Human Channel Difference" title="Direct link to The Human Channel Difference">​</a></h2>
-<p>The Human Channel isn’t another tool that tries to yell louder.</p>
-<p>It’s built for <strong>high-trust, high-permission conversations</strong>, where:</p>
-<ul>
-<li>Messages are delivered with consent.</li>
-<li>Communication respects time and attention.</li>
-<li>AI assists without intruding.</li>
-<li>Businesses serve as trusted advisors, not relentless spammers.</li>
-</ul>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="this-is-not-a-tweak-its-a-reset">This is Not a Tweak. It's a Reset.<a href="https://spid-protocol.github.io/spid-protocol-site/blog/human-channel-vs-noise#this-is-not-a-tweak-its-a-reset" class="hash-link" aria-label="Direct link to This is Not a Tweak. It's a Reset." title="Direct link to This is Not a Tweak. It's a Reset.">​</a></h2>
-<p>We’re not optimizing the Noise Economy.<br>
-<!-- -->We’re building <strong>the opposite of it</strong>.</p>
-<p>The Human Channel is where AI and human interaction intersect — with dignity, permission, and purpose.</p>
-<hr>
-<p><strong>The future is clear:</strong><br>
-<!-- -->You will either operate inside The Human Channel — or continue competing in the collapsing Noise Economy.</p>
-<p>Which side will you build for?</p>]]></content:encoded>
-            <category>AI</category>
-            <category>attention economy</category>
-            <category>future</category>
-            <category>permission</category>
-            <category>trust</category>
-        </item>
-        <item>
-            <title><![CDATA[Scarcity Is Dead: The Rise of Human Interaction in the AI Economy]]></title>
-            <link>https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead</link>
-            <guid>https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What if knowledge itself is no longer scarce?]]></description>
-            <content:encoded><![CDATA[<p>What if knowledge itself is no longer scarce?</p>
-<p>For centuries, economies were built on the scarcity of information. Experts were paid for access. Universities sold degrees. Consultants billed by the hour for specialized knowledge.</p>
-<p><strong>But all of that is changing.</strong></p>
-<p>In an AI-powered world, knowledge is becoming instantly abundant, commoditized, and virtually free. Anyone can access answers, frameworks, insights, and data in seconds. AI models like ChatGPT, Claude, and Perplexity are compressing entire libraries of expertise into simple conversations.</p>
-<blockquote>
-<p>"Scarcity of knowledge will no longer be an issue.<br>
-<!-- -->Therefore, knowledge will become worthless.<br>
-<!-- -->Human interaction will become very valuable."<br>
-<!-- -->— Unknown Speaker</p>
-</blockquote>
-<p>This single observation cuts to the heart of where we're heading.</p>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-true-scarcity-becomes-human-interaction">The True Scarcity Becomes Human Interaction<a href="https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead#the-true-scarcity-becomes-human-interaction" class="hash-link" aria-label="Direct link to The True Scarcity Becomes Human Interaction" title="Direct link to The True Scarcity Becomes Human Interaction">​</a></h2>
-<p>As knowledge abundance accelerates, <strong>human connection becomes the scarce asset.</strong></p>
-<ul>
-<li>People crave trusted interaction.</li>
-<li>Businesses crave permission to interact with their customers.</li>
-<li>Individuals crave meaningful dialogue, not generic content blasts.</li>
-</ul>
-<p>In this emerging world, businesses will no longer be able to differentiate simply by what they know. Instead, they'll differentiate by <strong>how they interact</strong> — how permissioned, trusted, and personalized their engagement feels.</p>
-<p>We are entering what we call:</p>
-<blockquote>
-<p><strong>The Human Channel Economy.</strong></p>
-</blockquote>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-the-human-channel">What Is The Human Channel?<a href="https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead#what-is-the-human-channel" class="hash-link" aria-label="Direct link to What Is The Human Channel?" title="Direct link to What Is The Human Channel?">​</a></h2>
-<p>The Human Channel is being built for exactly this shift:</p>
-<p>✅ <strong>Restoring Trust:</strong><br>
-<!-- -->Authentic permission-based communication, not forced attention.</p>
-<p>✅ <strong>Protecting Human Attention:</strong><br>
-<!-- -->Shielding people from the endless noise of AI-generated spam, calls, and outbound interruption.</p>
-<p>✅ <strong>Building Permissioned AI Infrastructure:</strong><br>
-<!-- -->AI agents that respect identity, consent, timing, and personal context.</p>
-<p>✅ <strong>Selling Interaction, Not Just Information:</strong><br>
-<!-- -->Businesses will thrive by offering curated, valuable, trust-filled conversations — not by hoarding knowledge.</p>
-<p>✅ <strong>Smart Packets + Identity Layers:</strong><br>
-<!-- -->New digital formats like Smart Packets (SPID Protocol) ensure every interaction is intentional, async, and AI-assisted, while still being human-first.</p>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-future-is-not-less-ai--its-more-ai-with-boundaries">The Future Is Not Less AI — It's More AI... With Boundaries<a href="https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead#the-future-is-not-less-ai--its-more-ai-with-boundaries" class="hash-link" aria-label="Direct link to The Future Is Not Less AI — It's More AI... With Boundaries" title="Direct link to The Future Is Not Less AI — It's More AI... With Boundaries">​</a></h2>
-<p>The problem isn't AI itself.</p>
-<p>The problem is <strong>AI without permission.</strong></p>
-<p>Unchecked, AI-driven outreach will overwhelm consumers with bots, cold DMs, unsolicited voice clones, and non-stop requests for attention.</p>
-<p><strong>The Human Channel offers an alternative path:</strong></p>
-<ul>
-<li>Permissioned access</li>
-<li>Identity-driven routing</li>
-<li>Async voice interaction models</li>
-<li>Trust-first engagement</li>
-</ul>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="we-are-building-the-infrastructure-for-this-shift">We Are Building the Infrastructure for This Shift<a href="https://spid-protocol.github.io/spid-protocol-site/blog/scarcity-is-dead#we-are-building-the-infrastructure-for-this-shift" class="hash-link" aria-label="Direct link to We Are Building the Infrastructure for This Shift" title="Direct link to We Are Building the Infrastructure for This Shift">​</a></h2>
-<p>The Human Channel isn't just an idea. It's an infrastructure layer that includes:</p>
-<ul>
-<li>✅ The Smart Packet Identity Layer (SPID)</li>
-<li>✅ Trust-Routing Protocols for AI agents</li>
-<li>✅ Permissioned AI communication models</li>
-<li>✅ Asynchronous voice-powered interactions</li>
-<li>✅ Full auditability and regulatory alignment</li>
-</ul>
-<hr>
-<p><strong>In the AI economy, knowledge is free.<br>
-<!-- -->Permissioned human interaction is the new currency.<br>
-<!-- -->The Human Channel is being built for this exact future.</strong></p>
-<hr>
-<p><em>Join us as we build the rails for permission-first AI communication.</em></p>]]></content:encoded>
-            <category>AI</category>
-            <category>human interaction</category>
-            <category>future</category>
-            <category>vision</category>
-            <category>the human channel</category>
+            <category>consent</category>
+            <category>governance</category>
+            <category>responsible AI</category>
+            <category>regulation</category>
         </item>
     </channel>
 </rss>
