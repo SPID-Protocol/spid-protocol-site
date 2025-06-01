@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspid_protocol_site=self.webpackChunkspid_protocol_site||[]).push([[335],{5785:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/spid-protocol-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
